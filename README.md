@@ -15,4 +15,5 @@ Either you are business people with raising sale ambition or developers with fas
 Faster- Smoother- Closer. 
 
 Design: https://www.figma.com/design/pRoBdcBxSEJGnAeCa9Cqsx/FluxStore-(Community)?node-id=8782-6823&t=67Cg6FaxbQVluTZq-0
+
 Backend: https://fakestoreapi.com/docs
