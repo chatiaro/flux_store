@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flux_store/src/injection.dart';
+// import 'package:flux_store/src/injection.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 late SharedPreferences sharedPreferences;
 void main() async{
   sharedPreferences = await SharedPreferences.getInstance();
-  await initInjection();
+  // await initInjection();
   runApp(const FluxStore());
 }
 
